@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Prasad Patil
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=3000&pause=500&color=00FF7F&center=true&vCenter=true&width=600&lines=Hi+I+am+Prasad+Patil;Data+Science+Enthusiast;Application+Developer;Building+Accessible+Solutions;Always+Learning+New+Things!&random=false&vCenter=true&width=600&height=50&blur=5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=3000&pause=500&color=FFD700%2CFF69B4&center=true&vCenter=true&width=600&lines=Hi+I+am+Prasad+Patil;Data+Science+Enthusiast;Application+Developer;Building+Accessible+Solutions;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
-
 ## 🚀 About Me
 
 🎓 **Student** at **SRM Institute of Science and Technology, Chennai**  
