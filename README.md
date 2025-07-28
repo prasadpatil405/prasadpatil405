@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Prasad Patil
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=36&duration=2500&pause=400&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+I+am+Prasad+Patil;Data+Science+Enthusiast;Application+Developer;Building+Accessible+Solutions;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=1500&pause=200&color=00FF00%2CFF00FF&center=true&vCenter=true&width=600&lines=Hi+I+am+Prasad+Patil;[DECRYPTING]:+Data+Scientist;[LOADING]:+Application+Developer;[EXECUTING]:+Accessible+Solutions;[SEARCHING]:+New+Knowledge...%0A" alt="Typing SVG" />
 </div>
 ## 🚀 About Me
 
