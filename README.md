@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=1500&pause=200&color=00FF00%2CFF00FF&center=true&vCenter=true&width=600&lines=Hi+I+am+Prasad+Patil;[DECRYPTING]:+Data+Scientist;[LOADING]:+Application+Developer;[EXECUTING]:+Accessible+Solutions;[SEARCHING]:+New+Knowledge...%0A" alt="Typing SVG" />
 </div>
-## 🚀 About Me
+🚀 About Me
 
 🎓 **Student** at **SRM Institute of Science and Technology, Chennai**  
 📊 **Data Science Enthusiast** exploring the world of data and analytics  
